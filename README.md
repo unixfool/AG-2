@@ -1,3 +1,6 @@
+
+----------------------> THIS REPO IS NO LONGER SUPPORT OR UPDATE! <----------------------
+
 # AG-2
 AG-2 Redmine Theme 2012
 
