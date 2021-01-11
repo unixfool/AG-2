@@ -3,6 +3,7 @@
 
 # AG-2
 AG-2 Redmine Theme 2012
+URL: https://code.google.com/archive/p/ag-2-theme/
 
 AG-2 Theme For Redmine ( AG-2 Plantilla para Redmine ) V.1.0
 
